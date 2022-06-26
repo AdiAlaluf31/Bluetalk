@@ -1,6 +1,10 @@
-Blurtalk
+Bluetalk 
+
 A wireless location App for finding your friends
+
+
 Team members: Adi Alaluf, Yuval Ohana, Lonnie berry
+
 Bluetalk is a wireless connection app. This may sound contradictory but this app should be used to connect local users at a small distance and pass between them location-data and other information with no need for Internet connection or cellular coverage.
 
 Each user is granted a personal user, with said user they can create Events. To make an Event the user must chose a name for said event, describe the event, chose the location, and invite friends who are also users in the application. The next step of the application has to be done before the beginning of the event, while The user still has internet. The user downloades the chosen map area, and profile pictures of the other participants. This way when the users choses to go to said event, they can access the event, even with out Wi-Fi or a network coverage. The user will still be able to pass and receive information making this app perfect for use in crowded places.
